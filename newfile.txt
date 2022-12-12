@@ -1,3 +1,4 @@
 Creating a conflict.
 Adding random code to files.
 Another change
+Another conflict.
